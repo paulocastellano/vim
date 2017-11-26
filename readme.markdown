@@ -1,5 +1,7 @@
 ## Meu vim
 
+Está configuração é um fork do https://github.com/InFog/meuvim adptado ao meu dia a dia
+
 Meus arquivos de configuração para o Vim.
 
 Comecei montar esta configuração para Vim com a ideia de substituir o grandalhão NetBeans no dia-a-dia como desenvolvedor WEB.
