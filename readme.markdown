@@ -4,13 +4,7 @@ Está configuração é um fork do https://github.com/InFog/meuvim adptado ao me
 
 Meus arquivos de configuração para o Vim.
 
-Comecei montar esta configuração para Vim com a ideia de substituir o grandalhão NetBeans no dia-a-dia como desenvolvedor WEB.
-
-Eu trabalho principalmente para web com Python, PHP, JavaScript, CSS e HTML.
-
-### Missão
-
-Substituir todos os editores do mundo! muahuahuahau (risada malévola)
+Eu trabalho principalmente para web com PHP, JavaScript, CSS e HTML.
 
 ### Como usar
 
